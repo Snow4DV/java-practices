@@ -47,7 +47,7 @@ class BallTest {
                 ", productName='" + ball.getProductName() + '\'' +
                 ", radius=" + ball.getRadius() +
                 ", weight=" + ball.getWeight() +
-                ", material='" + ball.getManufacturer() + '\'' +
+                ", material='" + ball.getMaterial() + '\'' +
                 ", type=" + ball.getType() +
                 ", color=" + ball.getColor().toString() +
                 '}', ball.toString());

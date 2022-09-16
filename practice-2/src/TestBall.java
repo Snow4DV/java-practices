@@ -45,8 +45,8 @@ class TestBall {
     void move() {
         ball.setXY(1.1, 2.2);
         ball.move(0.1, 0.2);
-        assertEquals(ball.getX(), 1.2000000000000002); // considering the rounding problem
-        assertEquals(ball.getY(), 2.4000000000000004);
+        assertTrue(Math.abs(all.getX() - 1.2000000000000002 <= 0.0000001));
+        assertTrue(Math.abs(ball.getY() - 2.4000000000000004 <= 0.0000001));
     }
 
     @Test
