@@ -6,7 +6,6 @@
 
     <groupId>ru.snow4dv</groupId>
     <artifactId>java-practices2</artifactId>
-<<<<<<< HEAD
     <packaging>pom</packaging>
     <version>1.0-SNAPSHOT</version>
     <modules>
@@ -15,13 +14,10 @@
         <module>practice-11</module>
         <module>practice-12</module>
     </modules>
-=======
-    <version>1.0-SNAPSHOT</version>
->>>>>>> 0b911f4f9a29c41feedcf847aacabfadfd5ed72c
 
     <properties>
         <maven.compiler.source>13</maven.compiler.source>
         <maven.compiler.target>13</maven.compiler.target>
-    </properties>
+    </propertiesw
 
 </project>
