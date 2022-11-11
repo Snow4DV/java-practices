@@ -5,7 +5,35 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="b727896f-0f92-4a4d-a2a9-87aa2f0c634e" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/practice-16/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/practice-16/src/main/java/ru/snowadv/Dish.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/practice-16/src/main/java/ru/snowadv/Drink.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/practice-16/src/main/java/ru/snowadv/Item.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/practice-16/src/main/java/ru/snowadv/ItemsLinkedList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/practice-16/src/main/java/ru/snowadv/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/practice-16/src/main/java/ru/snowadv/Order.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/practice-16/src/main/java/ru/snowadv/TablesOrderManager.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/practice-17-to-18.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/practice-17-to-18/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/practice-17-to-18/src/main/java/ru/snowadv/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/practice-19-to-20/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/practice-19-to-20/src/main/java/ru/snowadv/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/practice-12.iml" beforeDir="false" afterPath="$PROJECT_DIR$/practice-12-to-15.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/practice-12/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/practice-12-to-15/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/practice-12/src/main/java/ru/snow4dv/Address.java" beforeDir="false" afterPath="$PROJECT_DIR$/practice-12-to-15/src/main/java/ru/snow4dv/Address.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/practice-12/src/main/java/ru/snow4dv/Person.java" beforeDir="false" afterPath="$PROJECT_DIR$/practice-12-to-15/src/main/java/ru/snow4dv/Person.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/practice-12/src/main/java/ru/snow4dv/PhoneNumber.java" beforeDir="false" afterPath="$PROJECT_DIR$/practice-12-to-15/src/main/java/ru/snow4dv/PhoneNumber.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/practice-12/src/main/java/ru/snow4dv/Shirt.java" beforeDir="false" afterPath="$PROJECT_DIR$/practice-12-to-15/src/main/java/ru/snow4dv/Shirt.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/practice-9/target/classes/ru/snow4dv/OnlineShop$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/practice-9/target/classes/ru/snow4dv/OnlineShop$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/ru/snow4dv/OnlineShop$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/ru/snow4dv/OnlineShop$1.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -32,27 +60,28 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
-    &quot;full.screen.before.presentation.mode&quot;: &quot;false&quot;,
-    &quot;jdk.selected.JAVA_MODULE&quot;: &quot;13&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/Users/ASUS/IdeaProjects/java-practices2/practice-11/src/main/java/ru/snow4dv/Task1&quot;,
-    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
-    &quot;project.structure.last.edited&quot;: &quot;Facets&quot;,
-    &quot;project.structure.proportion&quot;: &quot;0.0&quot;,
-    &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.keymap&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "full.screen.before.presentation.mode": "false",
+    "jdk.selected.JAVA_MODULE": "18",
+    "last_opened_file_path": "C:/Users/ASUS/IdeaProjects/java-practices2/practice-11/src/main/java/ru/snow4dv/Task1",
+    "nodejs_package_manager_path": "npm",
+    "project.structure.last.edited": "Project",
+    "project.structure.proportion": "0.15",
+    "project.structure.side.proportion": "0.2",
+    "settings.editor.selected.configurable": "preferences.keymap"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="C:\Users\ASUS\IdeaProjects\java-practices2\practice-11\src\main\java\ru\snow4dv\Task1" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Main">
+  <component name="RunManager">
     <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="ru.snow4dv.Task3.Main" />
       <module name="practice-11" />
@@ -91,7 +120,9 @@
       <workItem from="1665762664620" duration="2151000" />
       <workItem from="1666175685455" duration="108000" />
       <workItem from="1666968343878" duration="12374000" />
-      <workItem from="1668165304483" duration="80000" />
+      <workItem from="1668165304483" duration="390000" />
+      <workItem from="1668165701922" duration="934000" />
+      <workItem from="1668166672702" duration="11406000" />
     </task>
     <servers />
   </component>
