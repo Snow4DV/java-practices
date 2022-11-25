@@ -8,7 +8,10 @@
         <outputRelativeToContentRoot value="true" />
         <module name="practice-17-to-18" />
         <module name="practice-16" />
+        <module name="practice-24" />
         <module name="practice-19-to-20" />
+        <module name="practice-23" />
+        <module name="practice-21-to-22" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
