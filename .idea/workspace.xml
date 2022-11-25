@@ -5,20 +5,12 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="b727896f-0f92-4a4d-a2a9-87aa2f0c634e" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/practice-21-to-22/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/practice-21-to-22/src/main/java/ru/snowadv/IDocument.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/practice-21-to-22/src/main/java/ru/snowadv/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/practice-23/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/practice-23/src/main/java/ru/snow4dv/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/practice-24/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/practice-24/src/main/java/ru/snow4dv/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/practice-25-to-26/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/practice-25-to-26/src/main/java/ru/snow4dv/Main.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/practice-16/src/main/java/ru/snowadv/Item.java" beforeDir="false" afterPath="$PROJECT_DIR$/practice-16/src/main/java/ru/snowadv/Item.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/practice-16/target/classes/ru/snowadv/Item.class" beforeDir="false" afterPath="$PROJECT_DIR$/practice-16/target/classes/ru/snowadv/Item.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/practice-19-to-20/target/classes/ru/snowadv/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/practice-19-to-20/target/classes/ru/snowadv/Main.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -110,7 +102,7 @@
       <workItem from="1668166672702" duration="11617000" />
       <workItem from="1668259627596" duration="1286000" />
       <workItem from="1668265644762" duration="4055000" />
-      <workItem from="1669407300630" duration="7531000" />
+      <workItem from="1669407300630" duration="10454000" />
     </task>
     <servers />
   </component>
